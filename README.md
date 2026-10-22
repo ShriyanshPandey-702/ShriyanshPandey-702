@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:512DA8,100:00D9FF&height=230&section=header&text=Shriyansh%20Pandey&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=58&stroke=00D9FF&strokeWidth=1" width="100%" alt="Shriyansh Pandey banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,45:1F6FEB,100:3FB950&height=230&section=header&text=Shriyansh%20Pandey&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=58&stroke=3FB950&strokeWidth=1" width="100%" alt="Shriyansh Pandey banner" />
 
 <a href="https://github.com/ShriyanshPandey-702">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=9B8AFF&center=true&vCenter=true&width=700&height=45&lines=Hi+there%2C+I'm+Shriyansh+%F0%9F%91%8B;I+turn+ideas+into+real-world+apps+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve+%F0%9F%94%81;Exploring+Full-Stack+%26+AI-powered+products+%E2%9A%A1" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Hi+there%2C+I'm+Shriyansh+%F0%9F%91%8B;I+turn+ideas+into+real-world+apps+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve+%F0%9F%94%81;Exploring+Full-Stack+%26+AI-powered+products+%E2%9A%A1" alt="Animated tagline" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShriyanshPandey-702&label=PROFILE%20VIEWS&color=7950F2&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ShriyanshPandey-702?label=FOLLOWERS&style=for-the-badge&logo=github&color=512DA8&labelColor=080B16" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ShriyanshPandey-702?label=STARS&style=for-the-badge&logo=github&color=00A8CC&labelColor=080B16" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=ShriyanshPandey-702&label=PROFILE%20VIEWS&color=388BFD&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ShriyanshPandey-702?label=FOLLOWERS&style=for-the-badge&logo=github&color=1F6FEB&labelColor=010409" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ShriyanshPandey-702?label=STARS&style=for-the-badge&logo=github&color=2EA043&labelColor=010409" alt="Stars" />
 
 <br/><br/>
 
 <a href="https://github.com/ShriyanshPandey-702?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY-PROJECTS-7950F2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20MY-PROJECTS-388BFD?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 <a href="https://www.linkedin.com/in/shriyansh-pandey-40673b348/">
   <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512DA8,100:00D9FF&height=50&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="About me" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:3FB950&height=50&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="About me" />
 
 <table align="center" width="100%">
 <tr>
@@ -61,21 +61,21 @@
 
 ### 🔁 My workflow
 
-<img src="https://img.shields.io/badge/1%20%C2%B7%20LEARN-7950F2?style=for-the-badge&labelColor=080B16" alt="Learn"/>
-<img src="https://img.shields.io/badge/%E2%86%92-080B16?style=for-the-badge" alt="arrow"/>
-<img src="https://img.shields.io/badge/2%20%C2%B7%20BUILD-6A4FD6?style=for-the-badge&labelColor=080B16" alt="Build"/>
-<img src="https://img.shields.io/badge/%E2%86%92-080B16?style=for-the-badge" alt="arrow"/>
-<img src="https://img.shields.io/badge/3%20%C2%B7%20BREAK-3F7FE0?style=for-the-badge&labelColor=080B16" alt="Break"/>
-<img src="https://img.shields.io/badge/%E2%86%92-080B16?style=for-the-badge" alt="arrow"/>
-<img src="https://img.shields.io/badge/4%20%C2%B7%20FIX-00A8CC?style=for-the-badge&labelColor=080B16" alt="Fix"/>
-<img src="https://img.shields.io/badge/%E2%86%92-080B16?style=for-the-badge" alt="arrow"/>
-<img src="https://img.shields.io/badge/5%20%C2%B7%20IMPROVE-00D9FF?style=for-the-badge&labelColor=080B16" alt="Improve"/>
+<img src="https://img.shields.io/badge/1%20%C2%B7%20LEARN-388BFD?style=for-the-badge&labelColor=010409" alt="Learn"/>
+<img src="https://img.shields.io/badge/%E2%86%92-010409?style=for-the-badge" alt="arrow"/>
+<img src="https://img.shields.io/badge/2%20%C2%B7%20BUILD-1F8BC9?style=for-the-badge&labelColor=010409" alt="Build"/>
+<img src="https://img.shields.io/badge/%E2%86%92-010409?style=for-the-badge" alt="arrow"/>
+<img src="https://img.shields.io/badge/3%20%C2%B7%20BREAK-1FA3A0?style=for-the-badge&labelColor=010409" alt="Break"/>
+<img src="https://img.shields.io/badge/%E2%86%92-010409?style=for-the-badge" alt="arrow"/>
+<img src="https://img.shields.io/badge/4%20%C2%B7%20FIX-2EA043?style=for-the-badge&labelColor=010409" alt="Fix"/>
+<img src="https://img.shields.io/badge/%E2%86%92-010409?style=for-the-badge" alt="arrow"/>
+<img src="https://img.shields.io/badge/5%20%C2%B7%20IMPROVE-3FB950?style=for-the-badge&labelColor=010409" alt="Improve"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:512DA8&height=50&section=header&text=%F0%9F%A7%B0%20TECH%20STACK&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Tech stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:1F6FEB&height=50&section=header&text=%F0%9F%A7%B0%20TECH%20STACK&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Tech stack" />
 
 <div align="center">
 
@@ -102,53 +102,55 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512DA8,100:00D9FF&height=50&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Featured projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:3FB950&height=50&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Featured projects" />
 
 <div align="center">
 
 <a href="https://github.com/ShriyanshPandey-702/Hirely">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Hirely&title_color=9B8AFF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0D1117&border_color=512DA8&border_radius=12" alt="Hirely project card"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Hirely&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&bg_color=0D1117&border_color=30363D&border_radius=12" alt="Hirely project card"/>
 </a>
 <a href="https://github.com/ShriyanshPandey-702/Dhwani-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Dhwani-AI&title_color=9B8AFF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0D1117&border_color=512DA8&border_radius=12" alt="Dhwani AI project card"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Dhwani-AI&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&bg_color=0D1117&border_color=30363D&border_radius=12" alt="Dhwani AI project card"/>
 </a>
 <a href="https://github.com/ShriyanshPandey-702/Student-Performance-Dropout-Predictor">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Student-Performance-Dropout-Predictor&title_color=9B8AFF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0D1117&border_color=512DA8&border_radius=12" alt="Student Performance and Dropout Predictor project card"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Student-Performance-Dropout-Predictor&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&bg_color=0D1117&border_color=30363D&border_radius=12" alt="Student Performance and Dropout Predictor project card"/>
 </a>
 <a href="https://github.com/ShriyanshPandey-702/Landing-Page">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Landing-Page&title_color=9B8AFF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0D1117&border_color=512DA8&border_radius=12" alt="Landing Page project card"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShriyanshPandey-702&repo=Landing-Page&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&bg_color=0D1117&border_color=30363D&border_radius=12" alt="Landing Page project card"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/ShriyanshPandey-702?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS%20%E2%86%92-7950F2?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS%20%E2%86%92-388BFD?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:512DA8&height=50&section=header&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="GitHub analytics" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3FB950,100:1F6FEB&height=50&section=header&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="GitHub analytics" />
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShriyanshPandey-702&show_icons=true&hide_border=false&title_color=9B8AFF&text_color=C9D1D9&icon_color=00D9FF&bg_color=0D1117&border_color=512DA8&border_radius=12&rank_icon=github" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriyanshPandey-702&layout=compact&hide_border=false&title_color=9B8AFF&text_color=C9D1D9&bg_color=0D1117&border_color=512DA8&border_radius=12" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShriyanshPandey-702&show_icons=true&hide_border=false&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&bg_color=0D1117&border_color=30363D&border_radius=12&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriyanshPandey-702&layout=compact&hide_border=false&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=12" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ShriyanshPandey-702&hide_border=false&background=0D1117&stroke=512DA8&ring=00D9FF&fire=FF9F1C&currStreakNum=9B8AFF&sideNums=9B8AFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&border=512DA8&card_width=500&border_radius=12" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=ShriyanshPandey-702&hide_border=false&background=0D1117&stroke=30363D&ring=3FB950&fire=FF9F1C&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&border=30363D&card_width=500&border_radius=12" alt="GitHub contribution streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriyanshPandey-702&bg_color=0D1117&color=9B8AFF&line=7950F2&point=00D9FF&area=true&area_color=512DA8&hide_border=true&custom_title=Contribution%20Activity&title_color=9B8AFF" width="98%" alt="Contribution activity graph"/>
+<sub><b>📅 CONTRIBUTION CALENDAR</b></sub>
+<br/>
+<img src="https://ghchart.rshah.org/3FB950/ShriyanshPandey-702" width="95%" alt="Contribution calendar"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512DA8,100:00D9FF&height=50&section=header&text=%F0%9F%A4%9D%20LET'S%20CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Let's connect" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:3FB950&height=50&section=header&text=%F0%9F%A4%9D%20LET'S%20CONNECT&fontSize=22&fontColor=ffffff&fontAlignY=52" width="100%" alt="Let's connect" />
 
 <div align="center">
 
@@ -164,8 +166,8 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Explore+my+repositories+and+feel+free+to+connect.;Let's+build+something+great+together+%F0%9F%9A%80" alt="Closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=3FB950&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Explore+my+repositories+and+feel+free+to+connect.;Let's+build+something+great+together+%F0%9F%9A%80" alt="Closing message"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:512DA8,100:080B16&height=130&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:1F6FEB,100:010409&height=130&section=footer" width="100%" alt="Footer wave" />
 
 </div>
