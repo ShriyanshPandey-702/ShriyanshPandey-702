@@ -1,18 +1,24 @@
 <div align="center">
 
-# Shriyansh Pandey
+<a href="https://github.com/ShriyanshPandey-702">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1500&color=F0F6FC&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Shriyansh+Pandey" alt="Shriyansh Pandey" />
+</a>
 
 **Full-Stack Developer • Builder • Problem Solver**
 
-*Hi there, I'm Shriyansh 👋 I turn ideas into real-world apps.*
-*Learn → Build → Break → Fix → Improve*
+<a href="https://github.com/ShriyanshPandey-702">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Hi+there%2C+I'm+Shriyansh+%F0%9F%91%8B;I+turn+ideas+into+real-world+apps+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve" alt="Animated tagline" />
+</a>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShriyanshPandey-702&label=Profile+Views&color=30363d&style=flat-square" alt="Profile views" />
+
+<br/><br/>
 
 [GitHub Repositories](https://github.com/ShriyanshPandey-702?tab=repositories) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/shriyansh-pandey-40673b348/) &nbsp;|&nbsp; [Email](mailto:shriyansh7021639629@gmail.com)
 
 </div>
-
 <br/>
 
 ---
@@ -78,7 +84,7 @@ Learn  →  Build  →  Break  →  Fix  →  Improve
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/ShriyanshPandey-702" width="95%" alt="Contribution calendar"/>
+<img src="https://raw.githubusercontent.com/ShriyanshPandey-702/ShriyanshPandey-702/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 
