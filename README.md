@@ -19,6 +19,7 @@
 [GitHub Repositories](https://github.com/ShriyanshPandey-702?tab=repositories) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/shriyansh-pandey-40673b348/) &nbsp;|&nbsp; [Email](mailto:shriyansh7021639629@gmail.com)
 
 </div>
+
 <br/>
 
 ---
@@ -84,7 +85,11 @@ Learn  →  Build  →  Break  →  Fix  →  Improve
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShriyanshPandey-702/ShriyanshPandey-702/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShriyanshPandey-702/ShriyanshPandey-702/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShriyanshPandey-702/ShriyanshPandey-702/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShriyanshPandey-702/ShriyanshPandey-702/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
